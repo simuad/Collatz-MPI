@@ -1,6 +1,6 @@
 # Longest Collatz Sequence with MPI
 
-C program with MPI to to find longest Collatz sequence in given interval, which runs on VU cluster.
+C program with MPI to find longest Collatz sequence in given interval. Program runs on VU cluster.
 
 ## Compilation
 
